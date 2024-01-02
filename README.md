@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashupatel1990
-- 👀 I’m interested in react, php, typo3
+- 👀 I’m interested in react, PHP, TYPO3
 - 🌱 I’m currently learning React, node
 - 💞️ I’m looking to collaborate on typo3, php, react
 - 📫 How to reach me ashish.undhad26@gmail.com
